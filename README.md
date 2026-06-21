@@ -2,13 +2,21 @@
 
 ## About Me
 
-I'm **Sukriti Dwivedi**, a passionate **Networking Engineer** at **Cisco**. I specialize in designing, implementing, and troubleshooting enterprise network solutions.
+Hey there! I'm **Sukriti Dwivedi**, a **Site Reliability Engineer** at **Cisco** with strong expertise in networking and cloud technologies. I'm passionate about building reliable, scalable infrastructure and solving complex operational challenges.
 
 ### 🔧 Professional Background
 
-- **Current Role:** Networking Engineer at Cisco
-- **Expertise:** Network design, configuration, and optimization
-- **Focus Areas:** Enterprise networking, security protocols, and infrastructure solutions
+- **Current Role:** Site Reliability Engineer at Cisco
+- **Expertise:** Networking, cloud infrastructure, and reliability engineering
+- **Focus Areas:** Enterprise networking, cloud operations, monitoring, and infrastructure optimization
+
+### 💻 Tech Stack & Skills
+
+- **Monitoring & Analytics:** Thousand Eyes, PRTG, Splunk
+- **Network Management:** DNAC (Cisco DNA Center)
+- **Infrastructure & Orchestration:** Kubernetes
+- **Terminal & Access:** Secure CRT
+- **Development Tools:** VS Code, Git
 
 ### 💼 Connect With Me
 
@@ -18,9 +26,10 @@ I'm **Sukriti Dwivedi**, a passionate **Networking Engineer** at **Cisco**. I sp
 ### 🎯 What I Do
 
 - Design and implement robust network architectures
-- Troubleshoot complex networking issues
-- Optimize network performance and security
-- Stay updated with the latest networking technologies and best practices
+- Troubleshoot complex networking and infrastructure issues
+- Optimize network performance, reliability, and security
+- Build and maintain scalable cloud infrastructure
+- Stay updated with the latest networking and DevOps technologies
 
 ---
 
