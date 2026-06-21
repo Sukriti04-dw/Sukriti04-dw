@@ -2,62 +2,60 @@
 🚀 Site Reliability Engineer | 💼 Cisco | 🌟 Open Source & Networking Enthusiast
 ![Profile views](https://komarev.com/ghpvc/?username=Sukriti04-dw&color=blue)
 
-"Code is like humor. When you have to explain it, it's bad." - Cory House
+> "Reliability is not about making things perfect, it's about making them resilient." - SRE Philosophy
 
 ---
 
 ## 🧑‍💻 About Me
 
-Background & Passion 🎯
+### Background & Passion 🎯
 
-💼 Site Reliability Engineer at Cisco, working on reliable, scalable infrastructure
-🌱 Passionate about creating resilient systems and improving service reliability
-🎓 Continuous learner exploring cloud-native and observability technologies
-⚡ Love contributing to automation, monitoring, and networking projects
-🎮 Tech enthusiast outside of work (gaming, tinkering with home lab)
+💼 Site Reliability Engineer at Cisco, architecting and operating reliable cloud and network infrastructure  
+🌱 Passionate about building scalable, fault-tolerant systems and improving operational excellence  
+🎓 Continuous learner focused on cloud-native technologies, observability, and automation  
+⚡ Experienced in enterprise networking, monitoring, and incident response  
 
 ### Current Focus 🔍
 
-🔥 Improving reliability, SLOs, and incident response
-☁️ Building and operating cloud-native infrastructure (Kubernetes, Azure)
-📊 Advanced monitoring, observability, and alerting (Splunk, ThousandEyes, PRTG)
-🔐 Network security, automation, and Cisco DNA Center (DNAC)
-🚀 Infrastructure as code, CI/CD, and operational tooling
+🔥 Improving reliability, SLOs, and incident response  
+☁️ Building and operating cloud-native infrastructure (Kubernetes, Azure)  
+📊 Advanced monitoring, observability, and alerting (Splunk, Prometheus, Grafana)  
+🔐 Network security, automation, and Cisco DNA Center (DNAC)  
+🚀 Infrastructure as code, CI/CD, and operational tooling  
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack & Skills (Site Reliability Focus)
 
-🎯 Core Technologies
+### 🎯 Core Technologies & Tools
 
-Frontend
-- JavaScript
-- TypeScript
-- HTML5 / CSS3
+| **Observability & Monitoring** | **Infrastructure & Orchestration** | **Automation & IaC** | **Cloud & Platform** |
+|---|---|---|---|
+| Splunk | Kubernetes | Terraform | Azure |
+| Prometheus | Docker | Ansible | AWS (familiar) |
+| Grafana | Helm | Helmfile | GCP (familiar) |
+| ThousandEyes | CI/CD (GitHub Actions / Jenkins) | Packer | Linux |
+| PRTG | Service Mesh (Istio/Linkerd) | Python / Bash scripting | Virtualization |
 
-Backend
-- .NET / C# (familiarity)
-- Node.js
-- APIs
+| **Logging & Tracing** | **Alerting & On-call** | **Networking & Device Management** | **Dev Tools** |
+|---|---|---|---|
+| ELK (Elasticsearch, Logstash, Kibana) | PagerDuty | Cisco DNAC (DNA Center) | VS Code |
+| OpenSearch | Opsgenie | SecureCRT | Git |
+| Jaeger / OpenTelemetry | Incident runbooks & runbooks-as-code | Network automation (Ansible, Netmiko) | tmux / Bash |
 
-Database
-- SQL Server
-- MySQL
-- MongoDB
+### 🔧 Key Competencies
 
-Tools & DevOps
-- Git
-- Docker
-- Kubernetes
-- Azure
-- VS Code
-- SecureCRT
-- Splunk
-- PRTG
-- ThousandEyes
-- Cisco DNAC
+- Service reliability: SLO/SLI definition, error budget management, post-incident reviews
+- Observability: metrics, logs, traces, dashboards, and alert tuning
+- Cloud-native operations: Kubernetes cluster lifecycle, deployments, autoscaling, and cost optimization
+- Automation & IaC: Terraform, Ansible, CI/CD pipelines, and repeatable infrastructure
+- Incident response: on-call practices, runbooks, blameless postmortems, and alerting strategy
+- Networking: enterprise network troubleshooting, DNAC, ThousandEyes for visibility, and secure access
+- Scripting & tooling: Python, Bash, automation frameworks, and custom tooling for ops
 
-📊 GitHub Statistics
+---
+
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukriti04-dw&show_icons=true&theme=radical)
 
@@ -65,17 +63,17 @@ Tools & DevOps
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 🎯 Current Focus
 
 - Infrastructure & reliability automation
-- Monitoring and alerting improvements
-- Contributing to observability tooling and internal automation
+- Monitoring, observability, and alerting improvements
+- Network visibility and automated remediation
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 Professional Network | Direct Contact | Code Repository | Tech Updates
 
@@ -85,7 +83,7 @@ Professional Network | Direct Contact | Code Repository | Tech Updates
 
 ---
 
-💬 Open for Opportunities
+## 💬 Open for Opportunities
 
 🚀 Always interested in:
 - 💼 SRE / Reliability & Infrastructure roles
@@ -95,10 +93,11 @@ Professional Network | Direct Contact | Code Repository | Tech Updates
 
 ---
 
-🌟 Call to Action
+## 🌟 Call to Action
 
-"The best time to plant a tree was 20 years ago. The second best time is now."  
-Let's build something resilient together — feel free to reach out!
+> "The best time to build reliable systems was yesterday. The second best time is now."
+
+Let's build something resilient together! Feel free to reach out for collaborations, questions, or just a friendly tech chat. 🚀
 
 ⭐ If you find my work interesting, consider giving my repositories a star!
 
